@@ -9,7 +9,7 @@
     <img src="https://media2.giphy.com/media/Wd4X2eRNbKEqFuIeGm/giphy-preview.gif" alt="Cutie" width="130" height="150">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Hands On 2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
