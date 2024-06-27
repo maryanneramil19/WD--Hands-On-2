@@ -13,7 +13,8 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- This serves as my Hero and Card Display Website with distinct designs using pure HTML and CSS. 
+ Welcome to my Hero and Card Display website with distinct desings including static designs of heroes and both static and animated versions of cards using HTML and CSS.
+
 </div>
 
 <br />
@@ -60,10 +61,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project: This is about creating a hero and card gallery website
+- Whats the purpose The purpose is to showcase distinct designs of various heroes and card website
+- What are key components: Distinct hero and card designs
+- What technology used and how it is used: Using pure HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
