@@ -1,0 +1,97 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f8f9fa;
+    color: brown;
+}
+
+header {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 1rem 2rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #6c63ff;
+}
+
+h1 {
+    color: #EA543B;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 80px);
+    padding: 2rem;
+}
+
+.hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.text-content {
+    max-width: 50%;
+}
+
+.image4 {
+    width: 450px;
+
+}
+
+.text-content p {
+    font-size: 1.4rem;
+    margin-bottom: 2rem;
+    color: #666;
+}
+
+.buttons {
+    margin-bottom: 2rem;
+}
+
+.images {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.images img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+}
+
+.image1 {
+    margin-left: 1000px;
+    margin-top: -100px;
+    margin-bottom: 200px;
+}
+
+.image2 {
+    margin-left: 1500px;
+    margin-top: -100px;
+    margin-bottom: 200px;
+}
+
+.image3 {
+
+    margin-left: 2000px;
+    margin-top: -100px;
+    margin-bottom: 200px;
+}

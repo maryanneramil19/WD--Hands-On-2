@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: lightblue;
+    color: #b71616;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+main {
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    flex: 1;
+    background: url(https://pvplive.net/wp-content/webp-express/webp-images/uploads/2024/05/Slam-Dunk-696x531.jpg.webp) no-repeat center center/cover;
+    position: relative;
+}
+

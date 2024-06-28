@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://www.pandotrip.com/wp-content/uploads/2018/06/The-view-of-Upper-Waterton-Lake-Canada.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    height: 80vh;
+}
+
+.new-class {
+align-self: flex-start;
+margin-top: -20px;
+margin-left: 10px;
+}
+
+.hero-content {
+    gap: 1rem;
+}
+
+h1 {
+    font-size: 3.5rem;
+    letter-spacing: 0.5rem;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    animation: fadeIn 1s ease-in;
+    color: #fff;
+}
+
+p {
+    justify-content: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #fff;
+}
