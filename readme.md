@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- Welcome to my Hero and Card Display website with distinct desings close to my heart including static designs of heroes and both static and animated versions of cards using HTML and CSS.
+ Welcome to my Hero and Card Display websitefeaturing unique desings close to my heart.  Including static designs of heroes and collection of static and animated cards using HTML and CSS.
 
 </div>
 
@@ -58,20 +58,20 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+The hero and card gallery is multi-page designed for hands-on 2 practice with HTML and CSS skills. This is project showcases distinct design layouts featuring various heroes and card gallery.
 
 Guiding Question:
 - What is the project: This is about creating a hero and card gallery website
-- Whats the purpose The purpose is to showcase distinct designs of various heroes and card website
-- What are key components: Distinct hero and card designs
-- What technology used and how it is used: Using pure HTML and CSS
+- Whats the purpose The purpose is to showcase distinct designs of various heroes and card website as well as to practice the HTML and CSS skills
+- What are key components: Some key componets include the home or landing page, the hero sections and the card gallery.
+- What technology used and how it is used: The project utilizes pure HTML and CSS for implementation.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Landing Page- The landing page serves as the home page and introduces the project.
+- Hero Sections- This sections consists of 5 different pages with unique layouts.
+- Card Gallery- This section stores static and animated cards for display.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
