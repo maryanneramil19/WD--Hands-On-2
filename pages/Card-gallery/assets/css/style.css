@@ -7,7 +7,7 @@ body {
     flex-direction: column;
     align-items: center;
     min-height: 100vh;
-    width: 100%;
+ 
 }
 
 .hero {
@@ -252,16 +252,13 @@ body {
     text-align: center;
     transition: transform 0.3s;
 }
-
 .animated-card img {
     width: 100%;
     height: auto;
 }
-
 .animated-card h2 {
     margin: 10px 0;
 }
-
 .animated-card p {
     padding: 0 10px 20px;
     color: #555;
@@ -283,7 +280,6 @@ body {
     margin: 10px 0;
 }
 
-/* Unique animations for each dynamic card, button, and icon */
 
 /* Card 1 */
 .card1:hover {
@@ -305,98 +301,6 @@ body {
     }
 }
 
-/* Card 2 */
-/*.card2:hover {
-    transform: scale(1.05);
-}
-.btn2:hover {
-    background-color: #007ba7;
-    transform: translateY(-5px);
-}
-.icon2 {
-    animation: pulse 3s infinite;
-}*/
-
-/* Card 3 */
-/*.card3:hover {
-    transform: rotate(5deg);
-}
-.btn3:hover {
-    background-color: #005f5f;
-    transform: scale(1.2);
-}
-.icon3 {
-    animation: rotate 3s infinite linear;
-}*/
-
-/* Card 4 */
-/*.card4:hover {
-    transform: translateX(-10px);
-}
-.btn4:hover {
-    background-color: #005f5f;
-    transform: translateX(5px);
-}
-.icon4 {
-    animation: spin 4s infinite linear;
-}*/
-
-/* Card 5 */
-/*.card5:hover {
-    transform: translateY(10px);
-}
-.btn5:hover {
-    background-color: #005f5f;
-    transform: rotate(10deg);
-}
-.icon5 {
-    animation: bounce 2s infinite;
-}*/
-
-/* Keyframes for animations */
-
-
-/*@keyframes pulse {
-    0% {
-        transform: scale(1);
-    }
-    50% {
-        transform: scale(1.1);
-    }
-    100% {
-        transform: scale(1);
-    }
-}
-
-@keyframes rotate {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
-}
-
-@keyframes spin {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
-}
-
-@keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-        transform: translateY(0);
-    }
-    40% {
-        transform: translateY(-30px);
-    }
-    60% {
-        transform: translateY(-15px);
-    }
-}*/
 .card1-animated{
     width: 380px;
     height: 460px;
